@@ -4,10 +4,10 @@
   </p>
 </div>
 
-<div align="center">
-|DEMOSTRACIÓN DE POLOBALL|
+
+| DEMOSTRACIÓN DE POLOBALL |
 |-|
 |<img src="demo.gif" width="700" />|
-</div>
+
 
 
