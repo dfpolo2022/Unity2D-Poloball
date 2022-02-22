@@ -5,5 +5,9 @@
 </div>
 
 <div align="center">
-<img src="demo.gif" width="700" />
+|DEMOSTRACIÓN DE POLOBALL|
+|-|
+|<img src="demo.gif" width="700" />|
 </div>
+
+
