@@ -7,7 +7,7 @@
 
 | DEMOSTRACIÓN DE POLOBALL |
 |-|
-|<img src="demo.gif" width="700" />|
+|<img src="demo.gif" width="800" />|
 
 
 
